@@ -1,0 +1,12 @@
+node_modules
+dist
+coverage
+.expo
+android
+ios
+pnpm-lock.yaml
+assets
+
+# Source-of-truth documents and generated registries: kept as authored.
+docs
+.atl
